@@ -2,7 +2,7 @@
 T/M으로 만든 모델 가지고 js로 웹앱 만들기
 
 # 실행 방법
-- https://iamyutaeyang.github.io/study_tensorflowjs/
+- https://iamyutaeyang.github.io/study_tensorflowjs/index.html
 - 위 링크 실행
 
 # Teachable Machine(T/M)을 사용하여 모델을 만들고 tensorflow.js파일을 사용함.
