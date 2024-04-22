@@ -2,7 +2,7 @@
 T/M으로 만든 모델 가지고 js로 웹앱 만들기
 
 # 실행 방법
-- vscode에서 extensions 항목에서 live server를 install해주어야 함.
+- https://iamyutaeyang.github.io/study_tensorflowjs/
 
 # Teachable Machine(T/M)을 사용하여 모델을 만들고 tensorflow.js파일을 사용함.
 - T/M으로 만든 모델의 클래스: car, cycle, kickboard, human <br>
